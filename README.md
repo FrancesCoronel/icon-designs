@@ -10,7 +10,7 @@ Some icon designs I've created over the years. Mostly for macOS apps.
 
 ### Blogo
 
-<img src="blogo/blogo.png" width="250">
+blogo banner
 
 ### Popcorn Time
 
@@ -18,13 +18,15 @@ Some icon designs I've created over the years. Mostly for macOS apps.
 
 ### Raindrop
 
-<img src="raindrop/iConverticons/PNG/1024x1024.png" width="250">
+raindrop banner
 
 ### Writefull
 
 ![writefull](writefull/Banner.jpg)
 
 ## Usage
+
+Use these icons for:
 
 - Android
 - Favicons
@@ -37,15 +39,7 @@ Some icon designs I've created over the years. Mostly for macOS apps.
 
 ## Credits
 
-[![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) |
-:---:|
-[`fvcproductions`](http://fvcproductions.com) |
-
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-2016 © [FVCproductions](http://fvcproductions.com)
+- © [FVCproductions](http://fvcproductions.com)
 
 ## Donations
 

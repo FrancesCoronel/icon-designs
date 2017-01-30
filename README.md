@@ -1,8 +1,10 @@
-# Icon Designs
+# old-icon-designs
 
 [![Github Issues](http://githubbadges.herokuapp.com/fvcproductions/icon-designs/issues.svg?style=flat-square)](https://github.com/fvcproductions/icon-designs/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/fvcproductions/icon-designs/pulls.svg?style=flat-square)](https://github.com/fvcproductions/icon-designs/pulls) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-Some icon designs I've created over the years. Mostly for macOS apps.
+Some old icon designs I've created in the past.
+
+Mostly for macOS apps.
 
 ### Alchemize
 
@@ -10,7 +12,7 @@ Some icon designs I've created over the years. Mostly for macOS apps.
 
 ### Blogo
 
-blogo banner
+![blogo](blogo/Banner.jpeg)
 
 ### Popcorn Time
 
@@ -18,7 +20,7 @@ blogo banner
 
 ### Raindrop
 
-raindrop banner
+![raindrop](raindrop/Banner.jpeg)
 
 ### Writefull
 
